@@ -1,1 +1,1 @@
-# shopify-headless
+# Built with [primo](https://primo.af)
